@@ -1,0 +1,29 @@
+.titulo {
+    margin-top: 5%;
+    margin-left: 38%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: red 2px 2px 5px;
+}
+
+#na {
+
+margin-top: 5%;
+
+}
+
+#naimg {
+
+    border: solid 2px;
+    border-color: red;
+    width: 500px;
+    height: auto;
+  
+}
+
+#natexto {
+margin-left: -75%;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 500;
+text-align: center;
+
+}
