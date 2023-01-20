@@ -1,13 +1,20 @@
 .titulo {
     margin-top: 5%;
     margin-left: 38%;
+    margin-bottom: 4%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-shadow: red 2px 2px 5px;
 }
 
 #na {
 
-margin-top: 5%;
+margin: 30px;
+margin-top: 20px;
+margin-left: 90px;
+width: 20%;
+height: 60%;
+position: relative;
+float: left;
 
 }
 
@@ -15,15 +22,104 @@ margin-top: 5%;
 
     border: solid 2px;
     border-color: red;
-    width: 500px;
+    width: 400px;
     height: auto;
   
 }
 
 #natexto {
-margin-left: -75%;
+
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-weight: 500;
 text-align: center;
 
+
 }
+
+#nb {
+
+    margin: 30px;
+    position: relative;
+    float: left;
+    width: 20%;
+height: 60%;
+margin-top: 2px;
+    
+    }
+    
+    #nbimg {
+    
+        border: solid 2px;
+        border-color: blue;
+        width: 400px;
+        height: auto;
+      
+    }
+    
+    #nbtexto {
+  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-align: center;
+  
+    
+    }
+
+    #nc {
+
+        margin: 30px;
+        margin-top: 45px;
+        position: relative;
+        float: left;
+        width: 20%;
+height: 60%;
+        
+        }
+        
+        #ncimg {
+        
+            border: solid 2px;
+            border-color: green;
+            width: 400px;
+            height: auto;
+          
+        }
+        
+        #nctexto {
+        
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        text-align: center;
+       
+        
+        }
+
+        #nd {
+
+            margin: 30px;
+            margin-top: 30px;
+            margin-right: 100px;
+            position: relative;
+            float: left;
+            width: 20%;
+height: 60%;
+            
+            }
+            
+            #ndimg {
+            
+                border: solid 2px;
+                border-color: yellow;
+                width: 400px;
+                height: auto;
+              
+            }
+            
+            #ndtexto {
+           
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: 500;
+            text-align: center;
+           
+            
+            }
